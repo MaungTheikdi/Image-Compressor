@@ -69,6 +69,7 @@ py -m PyInstaller ImageCompressor.spec
 |------|---------|
 | `main.py` | Application entry point and UI |
 | `requirements.txt` | Runtime dependencies |
+| `LICENSE` | MIT license terms |
 | `ImageCompressor.spec` | PyInstaller specification (optional) |
 
 ## Credits
@@ -77,4 +78,6 @@ Developed by **Theikdi Maung** — (+95) 09 263 230 440 · theidia.ss@gmail.com
 
 ## License
 
-Add a `LICENSE` file to this repository if you want to clarify terms for GitHub visitors and redistribution of the `.exe`.
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Theikdi Maung.
